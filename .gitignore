@@ -1,0 +1,18 @@
+.vscode/
+
+# Python environment
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Datasets (Ignored to save space)
+*.txt
+*.csv
+
+# Saved Model Weights (Ignored because they are massive)
+*.pt
+*.pth
